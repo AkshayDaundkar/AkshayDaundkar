@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AkshayDaundkar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Code-Mars&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<img align="right" height="150" src="https://i.ibb.co/MkdQ0bj/hacker-19jj.jpg"  />
+<img align="right" height="150" src="https://akshaydaundkar.netlify.app/assets/img/akshay.png"  />
 </div>
 
 ###
