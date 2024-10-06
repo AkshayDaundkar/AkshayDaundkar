@@ -69,4 +69,10 @@
 
 <img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=akshay-daundkar1123&color=green" alt="Profile Views"/>
+    <a href="https://inkedin.com/in/akshay-daundkar1123/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" height="30" width="30" style="margin-left: 10px;"/>
+    </a>
+</p>
 ###
