@@ -10,7 +10,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 - 💻 5+ years of hands-on experience building scalable **full-stack** web applications.
 - ☁️ Expertise in **Java (Spring Boot)**, **Python (FastAPI/Django)**, and **TypeScript (React/Next.js)**.
@@ -82,5 +82,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkshayDaundkar&color=green" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=akshay-daundkar1123&color=green" alt="Profile Views"/>
 </p>
