@@ -1,10 +1,21 @@
-<h2 align="left">Hi 👋 I am Akshay Daundkar, Software Developer</h2>
-
+<h2 align="left">Hi 👋 I am Akshay Daundkar, 
+• Results-driven Software Engineer with 5+ years of experience in full-stack development using Java 8/
+Python 3/ Typescript with strong foundation in Spring Boot, Core Java and modern web technologies build in
+microservices architecture using RESTful APIs and message brokers such as Kafka, RabbitMQ.
+• Skilled in front-end technologies including React, Redux Toolkit, and Next.js, focusing on performance optimization, state management, and code optimization.
+• Strong background in cloud technologies (AWS – Gateway, Lambda, Kinesis, Cloud-watch, and S3), with experience
+in serverless architectures and infrastructure management using Terraform, Expertise in database management
+(SQL, NoSQL) and high-performance SQL optimization.
+• Experienced in CI/CD pipelines, Docker, and handling high-volume traffic with a track record of performance
+optimization and system scalability, achieving 99.9% up time and efficiently serving over 10 million monthly
+users, Flexible in multiple programming languages and frameworks, including Java( Spring-Boot, hibernate),
+Python (Django, Celery), and JavaScript (Next.js, Node.js), staying at the forefront of new trends in Machine learning and Gen Ai in the Software Engineering Space
+</h2>
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AkshayDaundkar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Code-Mars&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkshayDaundkar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 <img align="right" height="150" src="https://akshaydaundkar.netlify.app/assets/img/akshay.png"  />
 </div>
 
