@@ -1,89 +1,86 @@
-<h2 align="left">Hi 👋 I am Akshay Daundkar, 
-• Results-driven Software Engineer with 5+ years of experience in full-stack development using Java 8/
-Python 3/ Typescript with strong foundation in Spring Boot, Core Java and modern web technologies build in
-microservices architecture using RESTful APIs and message brokers such as Kafka, RabbitMQ.
-• Skilled in front-end technologies including React, Redux Toolkit, and Next.js, focusing on performance optimization, state management, and code optimization.
-• Strong background in cloud technologies (AWS – Gateway, Lambda, Kinesis, Cloud-watch, and S3), with experience
-in serverless architectures and infrastructure management using Terraform, Expertise in database management
-(SQL, NoSQL) and high-performance SQL optimization.
-• Experienced in CI/CD pipelines, Docker, and handling high-volume traffic with a track record of performance
-optimization and system scalability, achieving 99.9% up time and efficiently serving over 10 million monthly
-users, Flexible in multiple programming languages and frameworks, including Java( Spring-Boot, hibernate),
-Python (Django, Celery), and JavaScript (Next.js, Node.js), staying at the forefront of new trends in Machine learning and Gen Ai in the Software Engineering Space
-</h2>
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mojombo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkshayDaundkar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<img align="right" height="150" src="https://akshaydaundkar.netlify.app/assets/img/akshay.png"  />
-</div>
-
-###
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-</div>
-
-######
-
-<div align="left">
-  <a href="https://leetcode.com/AkshayDaundkar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=slack&label=&color=FD9020&logoColor=blac&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/akshay-daundkar1123/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:akshaydaundkar01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
+<h1 align="center">Hi 👋 I'm Akshay Daundkar</h1>
+<h3 align="center">Full Stack Software Engineer | Java, Python, TypeScript | Cloud | AI Enthusiast</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=akshay-daundkar1123&color=green" alt="Profile Views"/>
-    <a href="https://inkedin.com/in/akshay-daundkar1123/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" height="30" width="30" style="margin-left: 10px;"/>
-    </a>
+  <a href="https://akshaydaundkar.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/akshay-daundkar1123/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:akshaydaundkar01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/AkshayDaundkar/" target="_blank"><img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
-###
+
+---
+
+### 🧑‍💻 About Me
+
+- 💻 5+ years of hands-on experience building scalable **full-stack** web applications.
+- ☁️ Expertise in **Java (Spring Boot)**, **Python (FastAPI/Django)**, and **TypeScript (React/Next.js)**.
+- 🌐 Architected microservices with **REST APIs**, **Kafka**, **RabbitMQ**, and **event-driven systems**.
+- 🚀 Built cloud-native apps using **AWS Lambda, API Gateway, S3, CloudWatch, Terraform**, and more.
+- 📈 Delivered performance-optimized apps used by **10M+ users/month**, ensuring **99.9% uptime**.
+- 🤖 Built GenAI & LLM-driven tools using **LangChain**, **Prompt Engineering**, **RAG**, and **FastAPI**.
+- 🧠 Passionate about continuous learning in **AI**, **Cloud**, **DevOps**, and **High-Scale Systems**.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend:**  
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+**DevOps & Cloud:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayDaundkar&theme=dracula" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayDaundkar&layout=compact&theme=dracula" height="160" />
+</p>
+
+---
+
+### 🧪 Notable Projects
+
+- 🚀 **Career Connect AI Job Portal** – AI-powered matching between students & jobs using AWS Bedrock & Spring Boot.
+- 🏋️‍♂️ **AI Fitness Tracker** – MERN + FastAPI based personalized fitness tracking platform with ML recommendations.
+- 📦 **Amazon Relay Automation** – Reduced LLM cost by 25% using a custom RAG framework built in FastAPI + LangChain.
+
+---
+
+### 🐍 GitHub Snake Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkshayDaundkar&color=green" alt="Profile Views"/>
+</p>
